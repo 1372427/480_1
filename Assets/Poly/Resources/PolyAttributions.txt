@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Alive
+Author: Sutu Eats Flies
+URL: https://poly.google.com/view/38xzvv-fiTN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Books on Bookshelf
+Author: Jerad Bitner
+URL: https://poly.google.com/view/8G2I4M-QVEf
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Kitchen v3
+Author: Jerad Bitner
+URL: https://poly.google.com/view/38PMRiku8qj
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Piano Rough Draft
+Author: Andrew Smart
+URL: https://poly.google.com/view/04VaTEm6eOR
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Table
+Author: Poly by Google
+URL: https://poly.google.com/view/8cnrwlAWqx7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
