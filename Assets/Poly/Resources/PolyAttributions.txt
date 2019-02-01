@@ -6,9 +6,21 @@ URL: https://poly.google.com/view/38xzvv-fiTN
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Arctic Fox (Sitting)
+Author: Anonymous
+URL: https://poly.google.com/view/dK08uQ8-Zm9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Books on Bookshelf
 Author: Jerad Bitner
 URL: https://poly.google.com/view/8G2I4M-QVEf
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Japanese Torii
+Author: Jacques Fourie
+URL: https://poly.google.com/view/cXyQGUwmlA5
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
@@ -27,5 +39,11 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Table
 Author: Poly by Google
 URL: https://poly.google.com/view/8cnrwlAWqx7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tsuru 1
+Author: 川崎絢司
+URL: https://poly.google.com/view/3ko0ZTM00-3
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
