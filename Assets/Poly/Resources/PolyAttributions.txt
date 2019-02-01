@@ -18,6 +18,12 @@ URL: https://poly.google.com/view/8G2I4M-QVEf
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: capratchet ball of stars
+Author: capratchet
+URL: https://poly.google.com/view/5Mr2CbiCD3w
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Japanese Torii
 Author: Jacques Fourie
 URL: https://poly.google.com/view/cXyQGUwmlA5
@@ -27,6 +33,12 @@ https://creativecommons.org/licenses/by/3.0/legalcode
 Title: Kitchen v3
 Author: Jerad Bitner
 URL: https://poly.google.com/view/38PMRiku8qj
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pagoda
+Author: Poly by Google
+URL: https://poly.google.com/view/1zS7ucaAd4J
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
