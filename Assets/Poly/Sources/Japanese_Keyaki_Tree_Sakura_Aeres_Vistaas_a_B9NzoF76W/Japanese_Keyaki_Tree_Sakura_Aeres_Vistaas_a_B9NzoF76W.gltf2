@@ -1,0 +1,245 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5123,
+      "count": 33060,
+      "max": [
+        22039.0
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "buffer-0-group-0-mesh-0-indices",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 22040,
+      "max": [
+        6.5284647941589355,
+        11.049948692321777,
+        6.6687331199646
+      ],
+      "min": [
+        -5.2688422203063965,
+        3.4063429832458496,
+        -6.069822788238525
+      ],
+      "name": "buffer-0-group-0-mesh-0-position",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 264480,
+      "componentType": 5126,
+      "count": 22040,
+      "max": [
+        0.993764340877533,
+        0.9998535513877869,
+        0.999943733215332
+      ],
+      "min": [
+        -0.9997485876083374,
+        -0.9997797608375549,
+        -0.9997857213020325
+      ],
+      "name": "buffer-0-group-0-mesh-0-normal",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 22040,
+      "max": [
+        1.0,
+        -0.0
+      ],
+      "min": [
+        0.0,
+        -1.0
+      ],
+      "name": "buffer-0-group-0-mesh-0-texcoord",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 66120,
+      "componentType": 5123,
+      "count": 125928,
+      "max": [
+        28895.0
+      ],
+      "min": [
+        0.0
+      ],
+      "name": "buffer-0-group-1-mesh-0-indices",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 528960,
+      "componentType": 5126,
+      "count": 28896,
+      "max": [
+        5.666047096252441,
+        10.037618637084961,
+        5.889601230621338
+      ],
+      "min": [
+        -4.541693210601807,
+        -0.0038689998909831047,
+        -5.334826946258545
+      ],
+      "name": "buffer-0-group-1-mesh-0-position",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 875712,
+      "componentType": 5126,
+      "count": 28896,
+      "max": [
+        0.9999902844429016,
+        0.9995989203453064,
+        0.999986469745636
+      ],
+      "min": [
+        -0.9997665882110596,
+        -0.9996811747550964,
+        -0.9999989867210388
+      ],
+      "name": "buffer-0-group-1-mesh-0-normal",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 176320,
+      "componentType": 5126,
+      "count": 28896,
+      "max": [
+        1.0,
+        -0.0
+      ],
+      "min": [
+        0.0,
+        -0.9666669964790344
+      ],
+      "name": "buffer-0-group-1-mesh-0-texcoord",
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "Obj2GltfConverter",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 317976,
+      "byteOffset": 0,
+      "name": "buffer-0-bufferview-ushort",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1222464,
+      "byteOffset": 317976,
+      "byteStride": 12,
+      "name": "buffer-0-bufferview-vec3",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 407488,
+      "byteOffset": 1540440,
+      "byteStride": 8,
+      "name": "buffer-0-bufferview-vec2",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1947928,
+      "name": "buffer-0",
+      "uri": "Japanese Keyaki Tree Sakuraobj.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "name": "keyakiPark1LeafShaderSG",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.64,
+          0.133069,
+          0.305214,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7448017359246658
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "name": "keyakiPark1ShaderSG",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.383873,
+          0.335236,
+          0.339295,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7448017359246658
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "buffer-0-mesh-0",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "node-0"
+    }
+  ],
+  "scenes": [
+    {
+      "name": "scene-0",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

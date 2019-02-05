@@ -24,15 +24,75 @@ URL: https://poly.google.com/view/5Mr2CbiCD3w
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Cat
+Author: Poly by Google
+URL: https://poly.google.com/view/6dM1J6f6pm9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Couch | Wde
+Author: Danny Bittman
+URL: https://poly.google.com/view/7Q_Ab2HLll1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dharma
+Author: Aya Kawa
+URL: https://poly.google.com/view/940btMghh5g
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Fancy Desk
+Author: Claire Abdulla
+URL: https://poly.google.com/view/cg-p_RXG-cy
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Japanese Keyaki Tree Sakura
+Author: Aeres Vistaas
+URL: https://poly.google.com/view/a_B9NzoF76W
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Japanese Torii
 Author: Jacques Fourie
 URL: https://poly.google.com/view/cXyQGUwmlA5
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: JapaneseWhiteFox
+Author: Aimi Sekiguchi
+URL: https://poly.google.com/view/6GBcyh7RSuB
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: kagami mochi
+Author: 川崎絢司
+URL: https://poly.google.com/view/8QeV2NCeo81
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Katana Sword
+Author: Nick Ladd
+URL: https://poly.google.com/view/7Ly4_Ou8HXK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Kitchen v3
 Author: Jerad Bitner
 URL: https://poly.google.com/view/38PMRiku8qj
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lucian's Samurai
+Author: Gateway VR Studio
+URL: https://poly.google.com/view/3WaE5ss0kdQ
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mount Fuji
+Author: Aya Kawa
+URL: https://poly.google.com/view/0sbo0giRpnM
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
